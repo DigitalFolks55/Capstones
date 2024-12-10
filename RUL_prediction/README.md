@@ -1,6 +1,9 @@
 # Project: RUL prediction for turbofan jet engine  
 **Overview:**  
-Supervised learning of Regression to predict RUL of turbofan jet engines  
+Supervised learning of Regression to predict RUL of turbofan jet engines.
+Brought several assumptions for the self-defined problem statement.
+These could be not correct; Owner does not have deeper understanding on engine maintenance process.
+Take them as just assumptions.
 
 **Folders:**  
 1. Notebook: Jupyter notebook & raw data  
